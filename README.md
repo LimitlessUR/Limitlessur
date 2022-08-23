@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Javascript and Python 
 
-- 👯 I’m always looking to collaborate 
+- 👯 I’m always looking to collaborate and constantly learning 
 
 
 
