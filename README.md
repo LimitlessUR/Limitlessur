@@ -9,6 +9,6 @@
 
 My Portfolio Link: https://master.d1znzb3x0tcf14.amplifyapp.com/
 
-Stay Humble be Hungry 
+Stay Humble Stay Hungry 
 
 ![image](https://user-images.githubusercontent.com/86543368/186727591-1e0437f4-7bfb-42e3-a1b5-148d4f7556f0.png)
