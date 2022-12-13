@@ -2,9 +2,9 @@
 
 ## Let's work together!!
 
-- Independent contractor seeking full time position 
+Seeking full time Data Analyst position 
 
-- 🔭 I’m currently working on Javascript and Python 
+- 🔭 I’m currently working with MySQL, PostgreSQL, and Tableau
 
 - 👯 I’m always looking to collaborate and constantly learn more about the Engineering World
 
