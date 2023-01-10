@@ -4,7 +4,7 @@
 
 Seeking full time Data Analyst position 
 
-- 🔭 I’m currently working with MySQL, PostgreSQL, and Tableau
+- 🔭 I’m currently working with SQL Server, MySQL, PostgreSQL, Tableau, and Power BI 
 
 - 👯 I’m always looking to collaborate and constantly learn more about the Engineering World
 
