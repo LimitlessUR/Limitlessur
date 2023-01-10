@@ -1,4 +1,4 @@
-### Hello Fellow Developers 👋
+### Hello Fellow Developers and Data Analysts 👋
 
 ## Let's work together!!
 
