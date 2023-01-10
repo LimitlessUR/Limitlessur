@@ -9,7 +9,7 @@ Seeking full time Data Analyst position
 - 👯 I’m always looking to collaborate and constantly learn more about the Engineering World
 
 
-My Portfolio Link: [Portfolio]((https://2023port.d3ttyjwywp01mq.amplifyapp.com/)
+My Portfolio Link: [Portfolio](https://2023port.d3ttyjwywp01mq.amplifyapp.com/)
 
  
 
