@@ -2,7 +2,6 @@
 
 ## Let's work together!!
 
-Seeking full time Data Analyst position 
 
 - 🔭 I’m currently working with Python, SQL Server, MySQL, PostgreSQL, Tableau, and Power BI 
 
